@@ -1,7 +1,9 @@
 # Kicad-STM32
 
 
-STM32 library for Kicad : BluePill and BlackPill
+STM32 library for Kicad : BluePill and BlackPill, based on the STM103
+
+For the STM32F401 BlackPill, see Piit79 Git : https://github.com/piit79/Kicad-STM32
 
 - symbols : 4 for each ; with and without SWD port breakout ; four are KLC compliant (let me know if it isn't !), four are "part like", and usefull when capturing schematics while playing with breadboards
 
